@@ -1,4 +1,4 @@
-e1077e3476d518281381a362f733f725 *DESCRIPTION
+08abb868aedd1d66f82ea351b732bfd1 *DESCRIPTION
 c03ec6a63024a02549a4b18d54a096e8 *NAMESPACE
 445a91f03703296b08527c3367663a10 *NEWS.md
 d58e7ccae9f19d513a9caa9e794885ba *R/arcgisplaces-package.R
@@ -12,8 +12,8 @@ ad99f4afd4307d2964eea40cb8f38bf9 *R/extendr-wrappers.R
 802f0e143030745da7ea316aee377d57 *R/import-standalone-obj-type.R
 2905eb2ca1daaed7ef20f05add886b43 *R/import-standalone-types-check.R
 a96e67f4aeac6d61dcb90f4a1284a29a *R/utils.R
-a869c01fda4a24f662863436e52d1df3 *configure
-fe3f5a9f002905353361d77c300e7524 *configure.win
+6dc963801a6a45ae7fcb5e9d7f4237d4 *configure
+1e6006521754e3a739cf9e515c11a90f *configure.win
 380830c29d96473dee05f15a660a9f4f *data/fields.rda
 a8635dbb92e5790ce0823399f49b7e1f *man/arcgisplaces-package.Rd
 e37ac9d16f67d3f5894a76e51f6f42ef *man/categories.Rd
@@ -23,13 +23,13 @@ de85d6cf743ed17bf6306d01034746d7 *man/fields.Rd
 f01b9db3085e6dc4565a3fb928580ef5 *man/near_point.Rd
 8a46a7faf3483202c85d6e7d7ba804e2 *man/place_details.Rd
 bd5872d0e8a9982c2a1264ab5c16344b *man/within_extent.Rd
-9aa1aba4a714ca0a2fd72ee76308f3a7 *src/Makevars.in
+d999e440fc62d632f794f7985b50b04b *src/Makevars.in
 27957123fba16c05c53a66e68b0f3482 *src/Makevars.ucrt
-d8970acc921653ed9162691e63fccba0 *src/Makevars.win.in
+36c871dbdab8b392887d031e76411099 *src/Makevars.win.in
 d10852fa968f59b50ba3f9e6b8e032cd *src/arcgisplaces-win.def
 affe27557643af79a70305a94f167d2b *src/entrypoint.c
-7bf59fc939fae2e777a242b1fa6cad10 *src/rust/Cargo.lock
-09cb8659e208329d27f26db309f03ad7 *src/rust/Cargo.toml
+e5ddb1a1897230a384f576a3d8ccb622 *src/rust/Cargo.lock
+4e25c15fa77c6990251ed5aa0f8598c1 *src/rust/Cargo.toml
 caa63d5076ca563c2fd49fa178f47d2c *src/rust/src/categories.rs
 68fe3b17d6bcd2de20c0c1b328dc1c05 *src/rust/src/category_details.rs
 77db61c6f8214ab0a3aacfddacdc36f9 *src/rust/src/lib.rs
@@ -37,5 +37,6 @@ caa63d5076ca563c2fd49fa178f47d2c *src/rust/src/categories.rs
 9f4a4838001907fe5ff9309edbec8abf *src/rust/src/place_details.rs
 698286cfbf828c8d52a8f78841f80bd2 *src/rust/src/within_extent.rs
 d4c7febd30951f7fbd584476dbb2dd70 *src/rust/vendor-config.toml
-62ec28d621cf88deff8781958dd8de39 *src/rust/vendor.tar.xz
-4b7d2f97c407377684aa35d16aa025c0 *tools/msrv.R
+ec2186bf8a7030e165c2a61a7fdcd0d1 *src/rust/vendor.tar.xz
+9cedfc88e6f426ce5d7e3c2c309a84ed *tools/config.R
+064e5e4e065fe2601c288550d112309d *tools/msrv.R

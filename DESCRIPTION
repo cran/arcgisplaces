@@ -1,6 +1,6 @@
 Package: arcgisplaces
 Title: Search for POIs using ArcGIS 'Places Service'
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person("Josiah", "Parry", , "josiah.parry@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0001-9910-865X"))
@@ -19,11 +19,11 @@ Imports: arcgisutils (>= 0.3.0), cli, httr2 (>= 1.0.5), rlang, wk
 Config/rextendr/version: 0.3.1.9001
 SystemRequirements: Cargo (Rust's package manager), rustc, OpenSSL
 Suggests: sf
-Depends: R (>= 2.10)
+Depends: R (>= 4.2)
 LazyData: true
 NeedsCompilation: yes
-Packaged: 2025-01-13 20:25:59 UTC; josiahparry
+Packaged: 2025-04-10 15:14:24 UTC; josiahparry
 Author: Josiah Parry [aut, cre] (<https://orcid.org/0000-0001-9910-865X>)
 Maintainer: Josiah Parry <josiah.parry@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-01-15 09:40:07 UTC
+Date/Publication: 2025-04-10 16:20:02 UTC
